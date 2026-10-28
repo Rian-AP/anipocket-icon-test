@@ -1,0 +1,30 @@
+{
+  "name": "AniPocket",
+  "short_name": "AniPocket",
+  "description": "Стриминг аниме без рекламы в 1080p",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0c10",
+  "theme_color": "#0b0c10",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-light.png",
+      "sizes": "120x120 180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-dark.png",
+      "sizes": "120x120 180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-mask.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
